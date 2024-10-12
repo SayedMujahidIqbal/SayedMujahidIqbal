@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SayedMujahidIqbal
-- 👀 I’m interested in Mern Stack Development  
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m a Full Stack Developmer  
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ... 
 
