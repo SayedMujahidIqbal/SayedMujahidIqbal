@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SayedMujahidIqbal
-- 👀 I’m a Full Stack Developmer  
+- 👀 I’m a Full Stack Developer  
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ... 
 
